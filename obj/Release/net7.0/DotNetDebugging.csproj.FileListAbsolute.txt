@@ -1,0 +1,15 @@
+C:\dev\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.exe
+C:\dev\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.deps.json
+C:\dev\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.runtimeconfig.json
+C:\dev\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.dll
+C:\dev\DotNetDebugging\bin\Release\net7.0\DotNetDebugging.pdb
+C:\dev\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.csproj.AssemblyReference.cache
+C:\dev\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\dev\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.AssemblyInfo.cs
+C:\dev\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\dev\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.dll
+C:\dev\DotNetDebugging\obj\Release\net7.0\refint\DotNetDebugging.dll
+C:\dev\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.pdb
+C:\dev\DotNetDebugging\obj\Release\net7.0\DotNetDebugging.genruntimeconfig.cache
+C:\dev\DotNetDebugging\obj\Release\net7.0\ref\DotNetDebugging.dll
